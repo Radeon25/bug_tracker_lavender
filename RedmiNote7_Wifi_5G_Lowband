@@ -1,0 +1,13 @@
+Rom Name :PixelExperience_lavender-10.0-20201117-1405-OFFICIAL
+Build Date :17-11-2020
+Rooted or Unrooted :Unrooted
+Custom Kernel or Stock Kernel :Stock kernel
+Steps to reproduce the problem : If you open any redmi note 7 with stock miui rom and set the region to canada,usa,uk or india and many more you will be able
+                                 to use low band 5G wifi . And its channel range is 36-48. I myself have a router that contains that range. But after flashing 
+                                 pixel experience I am unable to use the 5G low band wifi. But I asked many of the users in telegram they told me they were 
+                                 able to use the 5G wifi but they had high band 5G wifi . And its channel range is 148-165 . So I think  there is somesort of 
+                                 bug going on. One day I just added my 5G network name manually just by going into wifi and used add network after that I 
+                                 restarted the mobile 5-6 times. And I was able to connect to the network for 8-10 minute and it went away. So I think there is 
+                                 working place for it. 
+Any magisk modules ? : No
+Logcat : https://del.dog/mephuxofil
